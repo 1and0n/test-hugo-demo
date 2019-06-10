@@ -12,7 +12,7 @@ services:
 - heading: ''
   description: ''
   icon: ''
-show_news: false
+show_news: true
 partners: []
 show_staff: false
 menu:
