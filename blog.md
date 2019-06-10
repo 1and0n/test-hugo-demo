@@ -15,6 +15,12 @@ services:
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    weight: 6
+    title: Blogf
+  footer:
+    weight: 4
 published: false
 
 ---
